@@ -1,8 +1,6 @@
-# odin-project-recipes
+# Odin Recipes Project
 
 Redo of my first odin project
-
-# Odin Recipes Project
 
 ### Live Preview
 
